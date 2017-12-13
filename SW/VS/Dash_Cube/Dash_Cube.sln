@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dash_Cube", "Dash_Cube\Dash_Cube.vcxproj", "{0102966F-6172-4373-BA39-160739B7FC6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0102966F-6172-4373-BA39-160739B7FC6E}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{0102966F-6172-4373-BA39-160739B7FC6E}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{0102966F-6172-4373-BA39-160739B7FC6E}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{0102966F-6172-4373-BA39-160739B7FC6E}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
