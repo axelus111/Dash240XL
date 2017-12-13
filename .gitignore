@@ -53,3 +53,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/SW/VS/Dash_240XL/*.db
+/SW/VS/Dash_Cube/*.db
